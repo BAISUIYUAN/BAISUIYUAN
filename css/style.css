@@ -44,6 +44,12 @@ h6 {
 	font-family: "Open Sans", Sans-serif;
 	color: #232323;
 }
+body { 
+ padding-right: 0px !important 
+} 
+.modal-open { 
+ overflow-y: auto; 
+}
 
 p {
 	font-family: 'Roboto', sans-serif;
